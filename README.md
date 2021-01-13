@@ -46,6 +46,11 @@ To install pytest on the command line for running on a laptop (using a linux or 
 
 `sudo -H pip3 install pytest`
 
+If using PyCharm, you may need to fix your project setup.
+- Open the **Settings/Preferences | Tools | Python Integrated Tools** settings dialog.
+- In the Default test runner field select **pytest**.
+- Click OK to save the settings.
+
 ### Run commands
 To run just your main code:
 `python3 hello.py`
