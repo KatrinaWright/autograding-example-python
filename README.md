@@ -24,6 +24,15 @@ Write a function `mix` in pseudocode or python that takes two strings as paramet
 | `mix(12, abcd)` | `1a2bcd` |
 | `mix(1234, ab)` | `1a2b34` |
 
+## Getting started
+
+### Develop online
+
+Click the "Work in Repl.it" button. Edit the file. To run, see the commands below.
+
+### Develop in PyCharm
+
+With this option, you can develop on your laptop. You will need to install PyCharm (or another IDE) and git. PyCharm has some built-in git support.
 
 ## Testing
 The tests are failing right now because the functions aren't outputting the correct information. Fixing this up will make the tests green.
