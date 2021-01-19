@@ -1,7 +1,7 @@
 # Technical HW: Writing Loops & Sequences
 Please complete the following functions. You can test by running the 'pytest' command.
 
-## Problem 4: squared_sum
+## Problem 1: squared_sum
 
 Write a function ```squared_sum``` in pseudocode or python that takes an array of numbers as input and outputs the following:
 
@@ -13,7 +13,7 @@ Write a function ```squared_sum``` in pseudocode or python that takes an array o
 | `squared_sum ([7, -1, 15, 0])` | `275` |
 
 
-## Problem 5: mix
+## Problem 2: mix
 
 Write a function `mix` in pseudocode or python that takes two strings as parameters and returns one array with the first element from the first array, and the second element from the second array, and every other element thereafter.
 
