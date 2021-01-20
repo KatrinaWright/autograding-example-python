@@ -57,3 +57,6 @@ To run just your main code:
 
 To run all the tests:
 `pytest`
+
+### Submitting
+Commit & push your repo! The instructor will receive a pull request for grading.
