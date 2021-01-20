@@ -13,7 +13,7 @@ def test_hello_pass():
 #  HW Assignment Tests  #
 #########################
 
-# 4 Tests
+# Problem 1 Tests
 def test_squared_sum_empty():
     assert hello.squared_sum( [] ) == 0
 
@@ -29,11 +29,11 @@ def test_squared_sum3():
 def test_squared_sum4():
     assert hello.squared_sum([7, -1, 15, 0]) == 275
 
-# 5 Tests
+# Problem 2 Tests
 def test_mix_empty():
     assert hello.mix("", "") == ""
 
-def test_mix():
+def test_mix_even():
     assert hello.mix("hello", "there") == "htehlelroe"
 
 def test_mix_4_4():

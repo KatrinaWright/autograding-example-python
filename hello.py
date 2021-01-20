@@ -5,11 +5,11 @@
 def hello_world():
     return "Hello!"
 
-# 4
+# 1
 def squared_sum(array):
     return 0
 
-# 5
+# 2
 def mix(a, b):
     return ""
 
