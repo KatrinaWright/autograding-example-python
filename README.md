@@ -3,7 +3,7 @@ Please complete the following functions. You can test by running the 'pytest' co
 
 ## Problem 1: squared_sum
 
-Write a function ```squared_sum``` in pseudocode or python that takes an array of numbers as input and outputs the following:
+Write a function ```squared_sum``` that takes an array of numbers as input and outputs the following:
 
 | **Example call** | **Returns** |
 | -------------- | --------- |
@@ -15,7 +15,7 @@ Write a function ```squared_sum``` in pseudocode or python that takes an array o
 
 ## Problem 2: mix
 
-Write a function `mix` in pseudocode or python that takes two strings as parameters and returns one array with the first element from the first array, and the second element from the second array, and every other element thereafter.
+Write a function `mix` that takes two strings as parameters and returns one array with the first element from the first array, and the second element from the second array, and every other element thereafter.
 
 | **Example call** | **Returns** |
 | -------------- | --------- |
