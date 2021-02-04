@@ -18,7 +18,7 @@ Write a function ```squared_sum``` that takes an array of numbers as a parameter
 
 ## Problem 2: mix
 
-Write a function `mix` that takes two strings as parameters and returns one array with the first element from the first string, and the second element from the second string, and every other element thereafter.
+Write a function `mix` that takes two strings as parameters and returns one string with the first element from the first string, and the second element from the second string, and every other element thereafter.
 
 | **Example call** | **Returns** |
 | -------------- | --------- |
