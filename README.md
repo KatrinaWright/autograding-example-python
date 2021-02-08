@@ -4,6 +4,9 @@ Please complete the following 2 functions. You can test by running the `pytest` 
 * To run just the main code for one problem: `python3 hello.py`
 * To run the tests prior to submission: `pytest hello_test.py`
 
+You **SHOULD NOT** modify `hello_test.py`.
+You **SHOULD** implement your problem solutions in `hello.py`.
+
 ## Problem 1: squared_sum
 
 Write a function ```squared_sum``` that takes an array of numbers as a parameter and returns the sum of each number in the array squared:
