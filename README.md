@@ -15,6 +15,7 @@ Write a function ```squared_sum``` that takes an array of numbers as a parameter
 | `squared_sum ([-3, 4])` | `25` |
 | `squared_sum ([7, -1, 15, 0])` | `275` |
 
+_**Hint**: use the accumulator / aggregator pattern of a variable & for loop over a range_
 
 ## Problem 2: mix
 
@@ -26,6 +27,8 @@ Write a function `mix` that takes two strings as parameters and returns one stri
 | `mix(1234, abcd)` | `1a2b3c4d` |
 | `mix(12, abcd)` | `1a2bcd` |
 | `mix(1234, ab)` | `1a2b34` |
+
+_**Hint**: if you put your ifs inside your loop (I recommend using a while), your solution can be under 10 lines long!_
 
 ## Getting started
 
