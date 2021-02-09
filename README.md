@@ -31,7 +31,12 @@ Write a function `mix` that takes two strings as parameters and returns one stri
 | `mix(12, abcd)` | `1a2bcd` |
 | `mix(1234, ab)` | `1a2b34` |
 
-_**Hint**: if you put your ifs inside your loop (I recommend using a while), your solution can be under 10 lines long!_
+_**Hints**:_
+* Just try to print the strings in the right order first, then worry about returning 
+* What happens if one string is longer than the other? There are two approaches:
+  * Loop over the shortest string & then loop over the longest string
+  * Loop over the longest string & have an if inside the loop for the shorter string
+* If you put your ifs inside your loop (I recommend using a while), your solution can be under 10 lines long!
 
 ## Getting started
 
