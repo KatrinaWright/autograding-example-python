@@ -1,4 +1,4 @@
-# Technical HW: Writing Loops & Sequences
+# Project 1: Writing Loops & Sequences
 Please complete the following 2 functions. You can test by running the `pytest` or `python3` commands:
 
 * To run just the main code for one problem: `python3 hello.py`
