@@ -42,7 +42,7 @@ _**Hints**:_
 
 ### Develop online
 
-Click the "Work in Repl.it" button. Edit the file. To run, see the commands below.
+After accepting the assignment, import (or clone) your project repo into an online IDE such as repl.it or vs code. Edit the file. To run, see the commands below.
 
 ### Develop in PyCharm
 
