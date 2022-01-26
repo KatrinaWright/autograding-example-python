@@ -1,5 +1,5 @@
 # NAME:         FIXME
-# ASSIGNMENT:   FIXME
+# ASSIGNMENT:   Project 1
 
 # Example
 def hello_world():
