@@ -7,10 +7,12 @@ def hello_world():
 
 # 1
 def squared_sum(array):
+    # FIXME
     return 0
 
 # 2
 def mix(a, b):
+    # FIXME
     return ""
 
 def main():
